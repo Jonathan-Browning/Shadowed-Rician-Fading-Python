@@ -5,7 +5,7 @@ The shadowed Rician fading model implemented in python. Plots the theoretical an
 For more information this model please refer to Browning's paper (me):
 "The Rician Complex Envelope under Line of Sight Shadowing".
 
-This project uses PySimpleGUI, numpy, matplotlib and tkinter.
+This project uses PySimpleGUI, numpy, scipy, matplotlib and tkinter.
 
 This project was developed on a windows OS, using Spyder IDE with Python 3.8. All the dependencies where installed by anaconda.
 
