@@ -1,4 +1,4 @@
-# Shadowed-Rice-Fading-Matlab
+# Shadowed-Rice-Fading-Python
 
 The shadowed Rician fading model implemented in python. Plots the theoretical and simulated, envelope and phase porbability density functions (PDFs)
 
